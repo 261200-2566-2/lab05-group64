@@ -1,0 +1,38 @@
+1.design interface(s) to represent at least two types of RPG characters
+- Warrior
+     - ATK = 3*Level
+     - Hp = 8*level
+     - DEF = 8*level
+     - Mana = 5*level
+     - Speed = 80
+
+- Mage
+     - ATK = 5*level
+     - Hp = 5*level
+     - DEF = 3*level
+     - Mana = 8*level
+     - Speed = 100
+
+- Assassin
+     - ATK = 8*level
+     - Hp = 5*level
+     - DEF = 3*level
+     - Mana = 5*level
+     - Speed = 120
+
+2.design interface(s) to represent at least two types of accessories
+้Accessories have 4 level , accessories level will increase every 5 characters levels.
+- Ring
+     + ATK 20% / 21% / 22% / 24%
+     + DEF 10% / 11% / 12% / 14%
+     - Mana 5% / 5% / 4% / 4%
+
+- Necklace
+     + Hp 20% / 21% / 22% / 24%
+     + DEF 10% / 11% / 12% / 14%
+     - Speed 20 / 15 / 15 / 10
+
+- Boots
+     + Speed 20 / 22 / 24 / 26
+     + DEF 10% / 11% / 12% / 14%
+     - Hp 5% / 5% / 4% / 4%
